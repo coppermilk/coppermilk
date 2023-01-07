@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [codewars](https://github.com/coppermilk/pixel_flow)
 
-- 🌱 I’m currently learning **ML,Keras**
+- 🌱 I’m currently learning **ML, Keras**
 
 - 🤝 I’m looking for help with [Letter size fix config iDraw](https://github.com/coppermilk/letter_size_fix_config_idraw)
 
