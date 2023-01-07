@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Artem</h1>
 <h3 align="center">A passionate C/C++ developer from Vienna</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coppermilk" alt="coppermilk" /></a> </p>
 
 - 🔭 I’m currently working on [codewars](https://github.com/coppermilk/pixel_flow)
 
