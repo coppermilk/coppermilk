@@ -3,19 +3,12 @@
 
 
 - 🔭 I’m currently working on [codewars](https://github.com/coppermilk/pixel_flow)
-
 - 🌱 I’m currently learning **ML, Keras**
-
 - 🤝 I’m looking for help with [Letter size fix config iDraw](https://github.com/coppermilk/letter_size_fix_config_idraw)
-
 - 👨‍💻 All of my projects are available at [https://github.com/coppermilk](https://github.com/coppermilk)
-
 - 📝 I regularly write articles on [https://www.linkedin.com/in/artem-lawrence/](https://www.linkedin.com/in/artem-lawrence/)
-
 - 💬 Ask me about **Boost C++**
-
 - 📫 How to reach me **lawrence.artem@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1-Yzp0wEgS2cRRsUOQJdSKXKASOOcnGnS?usp=sharing](https://drive.google.com/drive/folders/1-Yzp0wEgS2cRRsUOQJdSKXKASOOcnGnS?usp=sharing)
 <!--STARTS_HERE_QUOTE_README-->
 - ⚡ Fun fact<i>❝The first-ever registered domain name was Symbolics.com for free.❞</i>
