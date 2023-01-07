@@ -32,8 +32,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coppermilk&show_icons=true&locale=en&layout=compact" alt="coppermilk" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coppermilk&" alt="coppermilk" /></p>
 
 
-
-<!--STARTS_HERE_QUOTE_README-->
-<i>❝The first-ever registered domain name was Symbolics.com for free.❞</i>
-<!--ENDS_HERE_QUOTE_README-->
-
