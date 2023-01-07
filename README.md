@@ -9,8 +9,7 @@
 - 📝 I regularly write articles on [https://www.linkedin.com/in/artem-lawrence/](https://www.linkedin.com/in/artem-lawrence/)
 - 💬 Ask me about **Boost C++**
 - 📫 How to reach me **lawrence.artem@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1-Yzp0wEgS2cRRsUOQJdSKXKASOOcnGnS?usp=sharing](https://drive.google.com/drive/folders/1-Yzp0wEgS2cRRsUOQJdSKXKASOOcnGnS?usp=sharing)
-<!--STARTS_HERE_QUOTE_README-->
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1-Yzp0wEgS2cRRsUOQJdSKXKASOOcnGnS?usp=sharing](https://drive.google.com/drive/folders/1-Yzp0wEgS2cRRsUOQJdSKXKASOOcnGnS?usp=sharing)<!--STARTS_HERE_QUOTE_README-->
 - ⚡ Fun fact<i>❝The first-ever registered domain name was Symbolics.com for free.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
