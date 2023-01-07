@@ -17,6 +17,9 @@
 - 📫 How to reach me **lawrence.artem@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1-Yzp0wEgS2cRRsUOQJdSKXKASOOcnGnS?usp=sharing](https://drive.google.com/drive/folders/1-Yzp0wEgS2cRRsUOQJdSKXKASOOcnGnS?usp=sharing)
+<!--STARTS_HERE_QUOTE_README-->
+- ⚡ Fun fact<i>❝The first-ever registered domain name was Symbolics.com for free.❞</i>
+<!--ENDS_HERE_QUOTE_README-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
