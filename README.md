@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/artem-lawrence/](https://www.linkedin.com/in/artem-lawrence/)
 
-- 💬 Ask me about **C/C++**
+- 💬 Ask me about **Boost C++**
 
 - 📫 How to reach me **lawrence.artem@gmail.com**
 
