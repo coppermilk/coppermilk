@@ -9,9 +9,7 @@
 - 📝 I regularly write articles on [https://www.linkedin.com/in/artem-lawrence/](https://www.linkedin.com/in/artem-lawrence/)
 - 💬 Ask me about **Boost C++**
 - 📫 How to reach me **lawrence.artem@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1-Yzp0wEgS2cRRsUOQJdSKXKASOOcnGnS?usp=sharing](https://drive.google.com/drive/folders/1-Yzp0wEgS2cRRsUOQJdSKXKASOOcnGnS?usp=sharing)<!--STARTS_HERE_QUOTE_README-->
-<i>❝Tandy TRS-80 Model I computer radiated so much interference that many games were designed so that an AM radio next to the computer could be used to provide sounds.❞</i>
-<!--ENDS_HERE_QUOTE_README-->
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1-Yzp0wEgS2cRRsUOQJdSKXKASOOcnGnS?usp=sharing](https://drive.google.com/drive/folders/1-Yzp0wEgS2cRRsUOQJdSKXKASOOcnGnS?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
